@@ -2,7 +2,7 @@
 - 👀 I’m interested in fullstack development
 - 🌱 I’m currently learning frontend development
 - 💞️ I’m looking to collaborate on backend development
-- 📫 How to reach me https://www.instagram.com/___slickback__/
+- 📫 How to reach me https://iheduru.netlify.app
 
 <!---
 Iheduru/Iheduru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
