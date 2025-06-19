@@ -24,7 +24,8 @@ Languages: JavaScript, HTML, CSS, Markdown
 Frameworks & Libraries: React (with Vite), Vue.js, Tailwind CSS, React Query, Formik, Yup, Headless UI, Bootstrap  
 Tools: Git, GitHub, VS Code, Postman, Chrome DevTools  
 API: JWT Auth, RESTful APIs, Face++ (facial recognition)  
-Other: Service Workers, Excel export, Web scraping (basic), PWA setup
+Other: Service Workers, Excel export, Web scraping (basic), PWA setup  
+📚 Currently Learning: **Express.js**, **MongoDB**, **MySQL**
 
 🚀 Projects I'm Proud Of
 
